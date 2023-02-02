@@ -1,5 +1,8 @@
 #!/usr/bin/env python
 
+# Package edited for modified Toyota Prius of the SafeVRU project of the Delft University of Technology
+# Edited by: Victor van der Drift (vvjvanderdrift@gmail.com)
+
 from __future__ import print_function
 
 import threading
